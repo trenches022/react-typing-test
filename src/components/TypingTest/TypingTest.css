@@ -1,0 +1,48 @@
+.typing-box {
+  width: 100%;
+  max-width: 600px;
+  min-height: 100px;
+  margin: 20px auto;
+  padding: 10px;
+  font-size: 24px;
+  font-family: monospace;
+  background-color: #323437;
+  color: #cbd5e1;
+  border: none;
+  outline: none;
+  caret-color: #facc15; 
+}
+
+span.correct {
+  color: #facc15; 
+}
+
+span.wrong {
+  color: #ef4444; 
+}
+
+.typing-text .gray {
+  color: #6b7280;
+}
+
+.typing-text {
+  font-size: 22px;
+  max-width: 600px;
+}
+
+.reset-btn{
+  color: black;
+  background-color: #d8ad03;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 20px;
+  font-size: 17px;
+  display: flex;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.reset-btn:hover{
+  background-color: #ac8d10;
+  transition: all .5s ease;
+}
