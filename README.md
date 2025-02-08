@@ -48,6 +48,7 @@ The project features a minimalist UI, smooth animations, and state management us
 
 # 🎨 UI Preview
 
+![Typing Test Screenshot](https://raw.githubusercontent.com/trenches022/react-typing-test/main/typing-test-screenshot1.png)
 ![Typing Test Screenshot](https://raw.githubusercontent.com/trenches022/react-typing-test/main/typing-test-screenshot.png)
 ![Typing Test Screenshot](https://raw.githubusercontent.com/trenches022/react-typing-test/main/typing-test-screenshot2.png)
 
