@@ -38,6 +38,26 @@ const textSamples = [
   "the study of ancient civilizations provides insights into the development of human societies cultures and technologies that have shaped the modern world",
 
   "physical fitness and mental well-being are interconnected aspects of a healthy lifestyle that require regular exercise balanced nutrition and stress management",
+
+  "blockchain technology is revolutionizing industries by providing secure transparent and decentralized solutions for data management and financial transactions",
+
+  "the future of transportation lies in electric vehicles autonomous driving and smart infrastructure aimed at reducing emissions and improving urban mobility",
+
+  "climate change is a pressing global issue that requires immediate action to reduce carbon emissions protect ecosystems and promote sustainable development",
+
+  "advancements in biotechnology are paving the way for innovative treatments and cures for diseases improving the quality of life for millions worldwide",
+
+  "the internet of things connects everyday devices to the internet enabling them to collect and exchange data for smarter decision-making and automation",
+
+  "quantum computing promises to revolutionize computing power by solving complex problems that are currently beyond the reach of classical computers",
+
+  "the rise of remote work has transformed the workplace offering flexibility and new opportunities while challenging traditional notions of productivity and collaboration",
+
+  "gamification is being used in education and training to engage learners and enhance motivation by incorporating game-like elements into non-game contexts",
+
+  "the exploration of mars and other planets is a key focus of space agencies aiming to uncover the potential for life and future human colonization",
+
+  "the gig economy is reshaping the labor market by offering flexible work opportunities while raising questions about job security and workers rights",
 ];
 
 export const getRandomText = () => textSamples[Math.floor(Math.random() * textSamples.length)];
